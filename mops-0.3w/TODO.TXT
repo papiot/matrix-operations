@@ -1,0 +1,2 @@
+1. Error when exists (Segmentation fault in Linux)
+2. In Matrix.h, the termination flag for the end of a row and/or column is a number that MIGHT be a value used in the matrix.
